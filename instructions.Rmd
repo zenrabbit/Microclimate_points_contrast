@@ -1,0 +1,50 @@
+---
+title: ""
+output: html_document
+date: ""
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+### Instructions  
+
+Data clean up for experimental design.  
+
+#### Data
+
+1. Temp loggers 2022. MZ lead.  
+logger. 2022. https://search.dataone.org/view/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fedi%2F1167%2F2
+
+Status: Mario and I tidied up and got x,y,z for shrubs added for all shrubs we could join to.  
+
+2. Point data. 2022. NG compiled.  
+https://search.dataone.org/view/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fedi%2F1146%2F2  
+
+Status: shrub sizes missing. NG please add a shrubs.csv For us to left_join, we will need to use by = c("lat", "long") from the shrubs file so there is pendant of course.   
+
+3. Logger data. 2022. NG lead.  
+https://search.dataone.org/view/https%3A%2F%2Fpasta.lternet.edu%2Fpackage%2Fmetadata%2Feml%2Fedi%2F1215%2F2
+
+Status: shrub sizes missing. NG can you please make a shrubs.csv and add to the folder in this repo in the folder data/2022_loggers_ng. ensure you have a column called 'pendant_ID' then x,y,z cols to we can join.
+
+#### Ideas  
+IF you have the shrubs for your loggers and the points Nargol, then here is the science I think.
+
+#### Questions    
+1. Do point and logger data correspond?  
+2. Does shrub size influence microclimate and does site matter?  
+3. If there is a difference between point and logger, did site or shrub size matter?
+
+#### Challenge  
+If you get the sizes, can you then match the logger to point datasets somehow? Lat long?
+
+#### Next step
+If yes to matching all and you have sizes, repeat in 2023 BUT much larger gradient and more variation in shrub sizes.  
+
+PLUS - better link to where you both put out loggers.  
+
+
+
+
