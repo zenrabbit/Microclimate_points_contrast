@@ -1,0 +1,7 @@
+state,desert,region,site_acronym,sub_site,site_code,foundation,lat,long,elevation,MAT,MAP,aridity,aspect,area_m2,polygon_block,area_block_m2
+California,San Joaquin,Carrizo,plant-animal,3,Carrizo_3,Ephedra californica,35.16245,-119.67445,,14,524,3.493333333,,519747.4,Carrizo,200418076.9
+California,San Joaquin,Carrizo,telemetry,4,Carrizo_4,Ephedra californica,35.11566,-119.62069,,14.5,476,3.070967742,,6593207.55,Carrizo,200418076.9
+California,San Joaquin,Cuyama,micronet,1,Cuyama_1,Ephedra californica,34.84872602,-119.483117,848,13.4,533,3.701388889,flat,30580.25,Cuyama,55203874.45
+California,San Joaquin,Cuyama,micronet,2,Cuyama_2,Ephedra californica,34.85362197,-119.485961,837,13.4,533,3.701388889,flat,130538,Cuyama,55203874.45
+California,Mojave,Mojave,Tecopa,7,Tecopa,Ephedra californica,35.85151504,-116.186706,699.456665,20.1,77,0.36492891,,33401.1,Tecopa,213979.67
+California,Mojave,Mojave,Tecopa_open,8,Tecopa_open,none,35.85474,-116.17866,,,,,,5684.19,Tecopa,213979.67

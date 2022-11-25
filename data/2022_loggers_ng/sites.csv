@@ -1,0 +1,5 @@
+state,desert,region,site_acronym,sub_site,site_code,foundation,lat,long
+California,San Joaquin,Carrizo,Soda Lake road,3,Carrizo_Soda Lake,none,35.05627,-119.60138
+California,San Joaquin,Carrizo,telemetry,4,Carrizo_4,Ephedra californica,35.11566,-119.62069
+California,Mojave,Mojave,Tecopa,7,Tecopa,Ephedra californica,35.85151504,-116.186706
+California,Mojave,Mojave,Tecopa_open,8,Tecopa_open,none,35.85474,-116.17866
